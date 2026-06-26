@@ -1,0 +1,17 @@
+{
+  "name": "air-homepage",
+  "version": "1.0.0",
+  "description": "放課後等デイサービス・日中一時支援 `air` の静的ホームページです。",
+  "main": "script.js",
+  "scripts": {
+    "find-images": "node tools/find-images.js",
+    "photo-gallery": "node tools/build-photo-gallery.js",
+    "air-dining-gallery": "node tools/find-air-dining-images.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.60.0"
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+
+# 作業用・生成用ファイル
+HANDOFF.md
+tools/
+photo-candidates/
+air-dining-candidates/
+
+# ローカル環境
+.DS_Store
+*.log
