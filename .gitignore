@@ -7,5 +7,7 @@ photo-candidates/
 air-dining-candidates/
 
 # ローカル環境
+.vercel/
 .DS_Store
 *.log
+.vercel
